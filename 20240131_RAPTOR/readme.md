@@ -1,12 +1,4 @@
-# RAPTOR【分层归纳】
-> **分层归纳**：像个善于组织的图书管理员，将文档内容自下而上地整理成树状结构，让信息检索能在不同层级间灵活穿梭，既能看到整体概要，又能深入细节。
->
-
-* 发表时间：2024.01.31
-* 论文名称：[RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval](https://arxiv.org/abs/2401.18059)
-* 论文地址：[https://arxiv.org/abs/2401.18059](https://arxiv.org/abs/2401.18059)
-* Github 项目：[https://github.com/parthsarthi03/raptor](https://github.com/parthsarthi03/raptor)
-
+# 【论文学习】 RAPTOR【分层归纳】
 > **分层归纳**：像个善于组织的图书管理员，将文档内容自下而上地整理成树状结构，让信息检索能在不同层级间灵活穿梭，既能看到整体概要，又能深入细节。
 >
 
